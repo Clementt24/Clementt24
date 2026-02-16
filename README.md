@@ -3,7 +3,7 @@
 
 📚 <em>BUT informatique</em> student.
 
-🔭 I’m currently learning <strong>CSS, Java </strong>
+🔭 I’m currently learning <strong>C, C++ </strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
