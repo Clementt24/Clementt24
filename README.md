@@ -3,7 +3,7 @@
 
 📚 <em>BUT informatique</em> student.
 
-🔭 I’m currently working on [ElviraMC](https://https://github.com/Elviramccc)
+🔭 I’m currently working on [ElviraMC](https://github.com/Elviramccc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
