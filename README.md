@@ -3,7 +3,7 @@
 
 📚 <em>BUT informatique</em> student.
 
-🔭 I’m currently learning <strong>C, C++ </strong>
+🔭 I’m currently learning <strong> C++ </strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,7 +12,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
