@@ -39,6 +39,8 @@
 </div>
 
 <p> </p>
+<p> </p>
+<p> </p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Clementt24&locale=fr&date_format=M%20j%5B%2C%20Y%5D&card_width=493" alt="GitHub Streak" /></a>
 
