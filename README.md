@@ -38,8 +38,6 @@
   </a>
 </div>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Clementt24" alt="Clementt24" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaniissou&" alt="yaniissou" /></p>
 
 
