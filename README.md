@@ -5,7 +5,7 @@
 
 🔭 Je travaille actuellement sur [ElviraMC](https://github.com/Elviramccc)
 
-<h3 align="left">COntactez moi sur :</h3>
+<h3 align="left">Contactez moi sur :</h3>
 <p align="left">
 <a href="https://discord.gg/@Clementt_pgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@Clementt_pgn" height="30" width="40" /></a>
  </p>
