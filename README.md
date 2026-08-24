@@ -1,16 +1,16 @@
-<h1 align="center">Hello, I'm Clément</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h1 align="center">Bonjour, je suis Clément</h1>
+<h3 align="center">Un développeur passionné originaire de France</h3>
 
-📚 <em>BUT informatique</em> student.
+📚 Étudiant en <em>BUT informatique</em>.
 
-🔭 I’m currently working on [ElviraMC](https://github.com/Elviramccc)
+🔭 Je travaille actuellement sur [ElviraMC](https://github.com/Elviramccc)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">COntactez moi sur :</h3>
 <p align="left">
 <a href="https://discord.gg/@Clementt_pgn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@Clementt_pgn" height="30" width="40" /></a>
  </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Langages et outils :</h3>
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
