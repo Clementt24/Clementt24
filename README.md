@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, je suis Clément</h1>
-<h3 align="center">Un développeur passionné originaire de France</h3>
+<h3 align="center">Un développeur fançais passionné</h3>
 
 📚 Étudiant en <em>BUT informatique</em>.
 
